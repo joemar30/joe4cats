@@ -83,7 +83,7 @@ const joemarFlores = {
 <div align="center">
 
 <!-- Using alternative trophy API with different theme -->
-<img src="https://github-trophies.vercel.app/?username=joe4cats&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=CyberSphinxxx&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 <!-- Fallback: GitHub Profile Summary Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cybersphinxxx&theme=midnight_purple" alt="Repos Per Language"/>
