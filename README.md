@@ -132,8 +132,6 @@ const joemarFlores = {
 <!-- GitHub Profile Summary Cards API -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyberSphinxxx&theme=midnight_purple" alt="Profile Details"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyberSphinxxx&theme=midnight_purple&utcOffset=8" alt="Productive Time"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyberSphinxxx&theme=midnight_purple" alt="Stats"/>
 
 </div>
 
