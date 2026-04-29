@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=cybersphinxxx&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/cybersphinxxx?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/cybersphinxxx?label=Total%20Stars&style=for-the-badge&color=blueviolet" alt="Stars"/>
-  <a href="https://user-badge.committers.top/philippines/CyberSphinxxx">
+  <a href="https://user-badge.committers.top/philippines/CyberSphinxx">
     <img src="https://user-badge.committers.top/philippines/CyberSphinxxx.svg" alt="Top Committers Badge" />
   </a>
 </p>
@@ -34,15 +34,15 @@
 ## 🧑‍💻 About Me
 
 ```javascript
-const johnLemar = {
+const joemarFlores = {
     pronouns: "he" | "him",
-    location: "Cagayan de Oro 🇵🇭",
+    location: "Pagadian city, Zamboanga del Sur 🇵🇭",
     education: {
         degree: "BS Information Technology",
-        university: "USTP",
+        university: "YBVC",
     },
     currentlyWorking: "Miru",
-    askMeAbout: ["Web Dev", "CyberSec", "Game Dev"],
+    askMeAbout: ["Web Dev", "Front-end dev", "Back-end Dev"],
     funFact: "I debug with console.log() "
 };
 ```
@@ -55,19 +55,19 @@ const johnLemar = {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/john-lemar-gonzales-28011b28b/" target="_blank">
+<a href="https://www.linkedin.com/in/joemar-flores-7aa050365/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/Cyber_Sphinx_x" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://www.facebook.com/johnlemgonzales" target="_blank">
+<a href="https://www.facebook.com/joemarsuperales" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://discord.gg/74jFFFgjNT" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="mailto:johnlemargonzales@gmail.com">
+<a href="mailto:joemarflores449@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://drive.google.com/file/d/1mGCkLMhAFvFN-etnsAwh3DTWVv7sFSXz/view?usp=sharing" target="_blank">
@@ -83,7 +83,7 @@ const johnLemar = {
 <div align="center">
 
 <!-- Using alternative trophy API with different theme -->
-<img src="https://github-trophies.vercel.app/?username=cybersphinxxx&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=joe4cats&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 <!-- Fallback: GitHub Profile Summary Stats -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cybersphinxxx&theme=midnight_purple" alt="Repos Per Language"/>
@@ -130,10 +130,10 @@ const johnLemar = {
 <div align="center">
   
 <!-- GitHub Profile Summary Cards API -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cybersphinxxx&theme=midnight_purple" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe4cats&theme=midnight_purple" alt="Profile Details"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cybersphinxxx&theme=midnight_purple&utcOffset=8" alt="Productive Time"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cybersphinxxx&theme=midnight_purple" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joe4cats&theme=midnight_purple&utcOffset=8" alt="Productive Time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joe4cats&theme=midnight_purple" alt="Stats"/>
 
 </div>
 
